@@ -4,7 +4,7 @@
 <img
 		width="400"
 		alt="Travel Journal Concept - Expo"
-		src="https://github.com/Abdenasser/RNTravelJournal-concept/blob/main/assets/images/screenshot.png">
+		src="https://github.com/Abdenasser/RNTravelJournal-concept/blob/main/assets/images/2ndScreenshot.png">
 </h1>
 
 ## Overview

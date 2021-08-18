@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <img
-		width="250"
+		width="400"
 		alt="Travel Journal Concept - Expo"
 		src="https://github.com/Abdenasser/RNTravelJournal-concept/blob/main/assets/images/screenshot.png">
 </h1>

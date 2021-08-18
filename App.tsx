@@ -1,19 +1,19 @@
 import "react-native-gesture-handler";
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import { StyleSheet } from "react-native";
 import { TravelJournalMain } from "./screens/TravelJournalMain";
 
 export default function App() {
   return (
-    <>
+    <SafeAreaProvider>
       <SafeAreaView style={{ flex: 0, backgroundColor: "#FCEFE3" }} />
       <SafeAreaView style={styles.container}>
         <StatusBar />
         <TravelJournalMain />
       </SafeAreaView>
-    </>
+    </SafeAreaProvider>
   );
 }
 
